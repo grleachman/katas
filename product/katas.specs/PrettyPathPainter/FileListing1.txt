@@ -1,0 +1,6 @@
+c:\PrettyPathPainterSpecTest\gareth.a
+c:\PrettyPathPainterSpecTest\gareth.b
+c:\PrettyPathPainterSpecTest\path_A\gareth.a
+c:\PrettyPathPainterSpecTest\path_A\gareth.b
+c:\PrettyPathPainterSpecTest\path_B\gareth.a
+c:\PrettyPathPainterSpecTest\path_B\gareth.b
