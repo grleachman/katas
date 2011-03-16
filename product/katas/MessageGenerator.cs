@@ -1,4 +1,4 @@
-namespace nothinbutdotnetstore
+namespace katas
 {
     public class MessageGenerator
     {

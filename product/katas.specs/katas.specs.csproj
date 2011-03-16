@@ -110,6 +110,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MessageGeneratorSpecs.cs" />
+    <Compile Include="PrettyPathPainter\PrettyPathPainterSpecs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PrettyPathPainter\FileListing1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
