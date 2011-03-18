@@ -78,6 +78,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MessageGenerator.cs" />
+    <Compile Include="PrettyPathPainter\IPathIterator.cs" />
+    <Compile Include="PrettyPathPainter\IPathPresenter.cs" />
+    <Compile Include="PrettyPathPainter\PathIterator.cs" />
+    <Compile Include="PrettyPathPainter\PathPresenter.cs" />
     <Compile Include="PrettyPathPainter\PrettyPathPainter.cs" />
   </ItemGroup>
   <ItemGroup />
